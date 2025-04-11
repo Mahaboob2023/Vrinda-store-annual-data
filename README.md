@@ -2,7 +2,7 @@
 
 ## 🎯 Project Objective
 
-- Build a dynamic, interactive Excel dashboard using_[Vrinda Store data for the year 2022.]()_
+- Build a dynamic, interactive Excel dashboard using_[Vrinda Store data for the year 2022.](https://github.com/Mahaboob2023/Vrinda-store-annual-data/blob/main/Vrinda%20data%20store%20analysis%20Dashboard.pdf)_
 - Perform **data cleaning**, **transformation**, and **analysis** to uncover actionable business insights.
 
 ---
